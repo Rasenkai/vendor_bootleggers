@@ -21,8 +21,8 @@ PRODUCT_PACKAGES += \
     StitchImage
 
 # DU-Fonts
-#PRODUCT_PACKAGES += \
-#    CustomFonts
+PRODUCT_PACKAGES += \
+    CR-Fonts
 
 # Cutout control overlay
 PRODUCT_PACKAGES += \
